@@ -21,7 +21,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Tech and Frameworks our platform uses  
 <table><tr><td valign="top" width="33%">
 
 
